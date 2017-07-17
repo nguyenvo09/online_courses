@@ -14,3 +14,7 @@ https://www.coursera.org/learn/matrix-factorization/home/info
 ```
 Certificate: https://www.coursera.org/account/accomplishments/verify/23S5AHQT789T
 ```
+
+## Neural Networks for Machine Learning - University of Toronto - In progress
+
+This advanced course provides lectures about advanced techniques in deep learning. 
