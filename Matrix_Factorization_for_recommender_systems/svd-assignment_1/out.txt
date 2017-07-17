@@ -1,0 +1,16 @@
+:compileJava UP-TO-DATE
+:processResources UP-TO-DATE
+:classes UP-TO-DATE
+:predict
+Done loading rating matrix!!!!
+Running time of SVD decomposition is: 55.41 seconds
+So luong user: 862 so luong items: 2500
+predictions for user 320:
+  153 (Batman Forever (1995)): 2.659
+  260 (Star Wars: Episode IV - A New Hope (1977)): 4.189
+  527 (Schindler's List (1993)): 4.064
+  588 (Aladdin (1992)): 3.558
+
+BUILD SUCCESSFUL
+
+Total time: 1 mins 2.067 secs
