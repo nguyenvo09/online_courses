@@ -12,9 +12,13 @@ https://www.coursera.org/learn/matrix-factorization/home/info
 
 
 ```
-Certificate: https://www.coursera.org/account/accomplishments/verify/23S5AHQT789T
+Certificate: https://www.coursera.org/account/accomplishments/records/CK3E474MW5TC
 ```
 
-## Neural Networks for Machine Learning - University of Toronto - In progress
+## Neural Networks for Machine Learning - University of Toronto - instructed by Professor Geoffrey Hinton - 95%
 
 This advanced course provides lectures about advanced techniques in deep learning. 
+
+```
+Certificate: https://www.coursera.org/account/accomplishments/records/CBJWTEH5NKMM
+```
