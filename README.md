@@ -17,7 +17,9 @@ Certificate: https://www.coursera.org/account/accomplishments/records/CK3E474MW5
 
 ## Neural Networks for Machine Learning - University of Toronto - instructed by Professor Geoffrey Hinton - 95%
 
-This advanced course provides lectures about advanced techniques in deep learning. 
+This advanced course offers knowledge about feed forward neuron network, gradient descent and updating rules, Restricted Boltzmann Machine and its applications in feature represention,
+recommender system, and classification. For more details please see syllabus 
+https://www.coursera.org/learn/neural-networks/home
 
 ```
 Certificate: https://www.coursera.org/account/accomplishments/records/CBJWTEH5NKMM
